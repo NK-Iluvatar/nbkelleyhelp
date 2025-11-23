@@ -185,6 +185,7 @@
   },
   "active": "0c38fab3123a6416",
   "lastOpenFiles": [
+    "build.sh",
     "wrangler.toml",
     "public/favicon_io/favicon.png",
     "public/css/main.min.308a63efff4286654be4576909fdfc08fc6577d54eabf735b9b5918542613949.css",
@@ -208,7 +209,6 @@
     "public/homelab/future-projects/index.html",
     "public/homelab/future-projects",
     "public/homelab/current-projects-copy/index.html",
-    "public/homelab/current-projects-copy",
     "content/Resume.md",
     "content/Blog copy/test01.md",
     "content/homelab.md",
