@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>homelab on nbkelley</title>
+    <link>http://localhost:1313/homelab/</link>
+    <description>Recent content in homelab on nbkelley</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Nov 2025 23:11:12 -0502</lastBuildDate>
+    <atom:link href="http://localhost:1313/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>current projects</title>
+      <link>http://localhost:1313/homelab/current-projects/</link>
+      <pubDate>Sat, 22 Nov 2025 23:11:12 -0502</pubDate>
+      <guid>http://localhost:1313/homelab/current-projects/</guid>
+      <description>&lt;h2 id=&#34;my-current-projects-are&#34;&gt;My current projects are:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Digitizing all my physical documents&lt;/strong&gt; - Scanning/OCR, file organization, 2x backup, security of physical copies.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cataloging my physical book collection&lt;/strong&gt; - Library database for search/filtering/checkout/metadata, laser scanner!!!, re-organization of books, some digitization&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scheduled offsite and onsite backups&lt;/strong&gt; - 2 network synced offsite backups for documents and photos (not media-server) using 8TB Seagate external hard drives connected to a Pi4 that sync over network. Most files will be preloaded, but changes will occur over network. Additionally a monthly backup for the full NAS using 28tb seagate&lt;/li&gt;&#xA;&lt;li&gt;Server dashboards&#xA;&lt;br&gt; &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>recent projects</title>
+      <link>http://localhost:1313/homelab/recent-projects/</link>
+      <pubDate>Sat, 22 Nov 2025 23:11:12 -0501</pubDate>
+      <guid>http://localhost:1313/homelab/recent-projects/</guid>
+      <description>&lt;h2 id=&#34;recent-projects&#34;&gt;Recent projects:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Home streaming server for my family using Jellyfin&lt;/strong&gt; - Ubuntu VM and deb package instance. Custom CSS across much of the site. Some JS for extra links and icons.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hugo static site&lt;/strong&gt;  - for family jellyfin help documentation.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;UPC&lt;/strong&gt; (CyberPower) - Synology auto shutdown and NUT server configuration.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Major network and security overhaul&lt;/strong&gt; - VLANs, Strict Firewall rules, multiple monitored switches, 2.5gbe full network, network and per device VPNs, EncryptDNS on the networks, isolated IoT network with no VPN, PiHole for ads and tracking, Gluetun on the server, SSL/TLS on everything, all the cloudflare security tools too, Bitvault on the server&#xA;&lt;br&gt; &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>future projects</title>
+      <link>http://localhost:1313/homelab/future-projects/</link>
+      <pubDate>Sat, 22 Nov 2025 23:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/homelab/future-projects/</guid>
+      <description>&lt;h2 id=&#34;future-projects&#34;&gt;future Projects&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Calibre-Web and auto synced Kindle&amp;rsquo;s for the fam&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

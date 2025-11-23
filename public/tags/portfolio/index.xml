@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on nbkelley</title>
+    <link>http://localhost:1313/tags/portfolio/</link>
+    <description>Recent content in Portfolio on nbkelley</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Nov 2025 00:04:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homelab and personal projects</title>
+      <link>http://localhost:1313/homelab/</link>
+      <pubDate>Sun, 23 Nov 2025 00:04:09 -0500</pubDate>
+      <guid>http://localhost:1313/homelab/</guid>
+      <description>&lt;p&gt;lksndl&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

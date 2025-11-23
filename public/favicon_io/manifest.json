@@ -1,0 +1,11 @@
+{
+ "name": "App",
+ "icons": [
+  {
+   "src": "\/favicon.png",
+   "sizes": "121x121",
+   "type": "image\/png",
+   "density": "1.0"
+  }
+ ]
+}
