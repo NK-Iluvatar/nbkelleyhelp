@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/resume.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resume"
+              "title": "_index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/resume.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for resume"
+              "title": "Backlinks for _index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/resume.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from resume"
+              "title": "Outgoing links from _index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/resume.md",
+                "file": "content/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of resume"
+              "title": "Outline of _index"
             }
           }
         ]
@@ -185,17 +185,17 @@
   },
   "active": "0c38fab3123a6416",
   "lastOpenFiles": [
+    "content/resume.md",
+    "assets/js/main.js",
+    "assets/js",
+    "assets/css/main.css",
+    "assets/css/custom.css",
+    "assets/css",
     "layouts/index.html",
     "layouts/shortcodes/mermaid.js",
     "layouts/shortcodes",
     "layouts/_partials/terms.html",
     "layouts/_partials/menu.html",
-    "layouts/_partials/header.html",
-    "layouts/_partials/head.html",
-    "layouts/_partials/head/js.html",
-    "layouts/_partials/head/favicon.html",
-    "layouts/_partials/head/css.html",
-    "layouts/_partials/head",
     "static/favicon_io/favicon.png",
     "public/favicon_io/favicon.png",
     "themes/shibui/static/favicon_io/favicon.png",
@@ -208,7 +208,6 @@
     "content/Blog copy/future projects.md",
     "content/Blog copy/current projects.md",
     "content/Blog copy/_index.md",
-    "content/resume.md",
     "content/homelab/current projects copy.md",
     "content/Resume.md",
     "content/Blog copy/test01.md",
