@@ -1,4 +1,5 @@
 {
   "template": "archetypes/default",
-  "folder": "/home/iluvatar/nbkelleyhelp/content/journal"
+  "folder": "/content/journal",
+  "autorun": true
 }
