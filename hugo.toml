@@ -42,7 +42,7 @@ theme = "shibui"
     weight = 4
   [[menu.main]]
     name = "/login"
-    url = "/login/"
+    url = "/journal/"
     weight = 5
 
 [build]
