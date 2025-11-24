@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: resume
 date: 2025-11-22T23:11:12-16:20
 comment: true
 tags:

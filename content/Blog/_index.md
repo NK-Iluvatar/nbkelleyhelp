@@ -1,5 +1,4 @@
 ---
-title: "Blog"
-linkTitle: "blog"
-
+title: blog
+linkTitle: blog
 ---
