@@ -49,10 +49,10 @@ theme = "shibui"
   writeStats = true
 
 [frontmatter]
-  date = ['date', 'publishDate', 'lastmod']
+  date = ['date']
   expiryDate = ['expiryDate']
-  lastmod = [':git', 'lastmod', 'date', 'publishDate']
-  publishDate = ['publishDate', 'date']
+  lastmod = [':git', 'lastmod']
+  publishDate = ['publishDate']
 
 [caches]
   [caches.images]

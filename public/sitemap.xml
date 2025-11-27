@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-22T23:11:12-16:20</lastmod>
+    <loc>http://nbkelley.com/</loc>
   </url><url>
-    <loc>http://localhost:1313/resume/</loc>
-    <lastmod>2025-11-22T23:11:12-16:20</lastmod>
+    <loc>http://nbkelley.com/resume/</loc>
   </url><url>
-    <loc>http://localhost:1313/homelab/current-projects/</loc>
-    <lastmod>2025-11-22T23:11:12-05:02</lastmod>
+    <loc>http://nbkelley.com/homelab/current-projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/homelab/</loc>
-    <lastmod>2025-11-22T23:11:12-05:02</lastmod>
+    <loc>http://nbkelley.com/homelab/</loc>
   </url><url>
-    <loc>http://localhost:1313/homelab/recent-projects/</loc>
-    <lastmod>2025-11-22T23:11:12-05:01</lastmod>
+    <loc>http://nbkelley.com/homelab/recent-projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-11-22T23:11:12-05:00</lastmod>
+    <loc>http://nbkelley.com/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/test01/</loc>
-    <lastmod>2025-11-22T23:11:12-05:00</lastmod>
+    <loc>http://nbkelley.com/documentation/</loc>
   </url><url>
-    <loc>http://localhost:1313/homelab/future-projects/</loc>
-    <lastmod>2025-11-22T23:11:12-05:00</lastmod>
+    <loc>http://nbkelley.com/blog/first-post/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://nbkelley.com/documentation/first-post/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://nbkelley.com/journal/first-post/</loc>
+  </url><url>
+    <loc>http://nbkelley.com/homelab/future-projects/</loc>
+  </url><url>
+    <loc>http://nbkelley.com/journal/</loc>
+  </url><url>
+    <loc>http://nbkelley.com/categories/</loc>
+  </url><url>
+    <loc>http://nbkelley.com/tags/</loc>
   </url>
 </urlset>

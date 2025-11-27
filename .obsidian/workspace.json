@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/journal/2025-11-23.md",
+                "file": "content/journal/2025-11-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-23"
+              "title": "2025-11-26"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/journal/2025-11-23.md",
+                "file": "content/journal/2025-11-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-11-23"
+              "title": "Backlinks for 2025-11-26"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/journal/2025-11-23.md",
+                "file": "content/journal/2025-11-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-11-23"
+              "title": "Outgoing links from 2025-11-26"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/journal/2025-11-23.md",
+                "file": "content/journal/2025-11-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-23"
+              "title": "Outline of 2025-11-26"
             }
           }
         ]
@@ -185,7 +185,21 @@
   },
   "active": "375bc6980a48c822",
   "lastOpenFiles": [
+    "content/journal/2025-11-26.md",
+    "content/tester.md",
+    "content/testing.md",
+    "public/tester/index.html",
+    "public/tester",
+    "public/testing/index.html",
+    "public/testing",
+    "content/journal/postyposter.md",
     "content/journal/2025-11-23.md",
+    "public/journal/first-post/index.html",
+    "public/journal/index.xml",
+    "public/journal/index.html",
+    "public/journal/first-post",
+    "public/journal",
+    "public/documentation/first-post/index.html",
     "Untitled.md",
     "content/journal/first post.md",
     "content/journal/_index.md",
@@ -193,18 +207,8 @@
     "content/_index.md",
     "content/resume.md",
     "content/documentation/first post.md",
-    "content/documentation",
-    "content/journal",
     "content/Blog/first post.md",
     "content/Blog/_index.md",
-    "assets/js/main.js",
-    "assets/js",
-    "assets/css/main.css",
-    "assets/css/custom.css",
-    "assets/css",
-    "layouts/index.html",
-    "layouts/shortcodes/mermaid.js",
-    "layouts/shortcodes",
     "static/favicon_io/favicon.png",
     "public/favicon_io/favicon.png",
     "themes/shibui/static/favicon_io/favicon.png",
@@ -219,10 +223,6 @@
     "content/homelab/current projects copy.md",
     "content/Resume.md",
     "content/Blog copy/test01.md",
-    "content/homelab.md",
-    "content/posts/_index.md",
-    "content/posts/test01.md",
-    "content/posts/migrate-from-jekyll.md",
-    "content/posts/hugoisforlovers.md"
+    "content/homelab.md"
   ]
 }
