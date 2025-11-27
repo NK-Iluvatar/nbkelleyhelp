@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/journal/2025-11-27.md",
+                "file": "archetypes/default 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-27"
+              "title": "default 1"
+            }
+          },
+          {
+            "id": "a7906916542c3eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/journal/2025-11-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-26"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +198,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "375bc6980a48c822",
+  "active": "a7906916542c3eb9",
   "lastOpenFiles": [
-    "content/journal/2025-11-26.md",
     "content/journal/2025-11-27.md",
+    "archetypes/default 1.md",
+    "content/journal/2025-11-26.md",
+    "content/journal/first post.md",
+    "content/homelab/future projects.md",
+    "content/resume.md",
+    "content/documentation/first post.md",
+    "Untitled 1.md",
+    "content/journal/_index.md",
+    "content/homelab/recent projects.md",
+    "content/homelab/current projects.md",
+    "archetypes/default.md",
+    "public/journal/2025-11-27/index.html",
+    "public/journal/2025-11-27",
+    "public/journal/2025-11-26/index.html",
+    "public/journal/2025-11-26",
     "content/tester.md",
     "content/testing.md",
     "public/tester/index.html",
@@ -197,32 +226,18 @@
     "content/journal/2025-11-23.md",
     "public/journal/first-post/index.html",
     "public/journal/index.xml",
-    "public/journal/index.html",
-    "public/journal/first-post",
-    "public/journal",
-    "public/documentation/first-post/index.html",
     "Untitled.md",
-    "content/journal/first post.md",
-    "content/journal/_index.md",
     "content/documentation/_index.md",
     "content/_index.md",
-    "content/resume.md",
-    "content/documentation/first post.md",
     "content/Blog/first post.md",
     "content/Blog/_index.md",
     "static/favicon_io/favicon.png",
     "public/favicon_io/favicon.png",
     "themes/shibui/static/favicon_io/favicon.png",
-    "content/homelab/recent projects.md",
-    "content/homelab/future projects.md",
-    "content/homelab/current projects.md",
     "content/homelab/_index.md",
     "content/Blog copy/recent projects.md",
     "content/Blog copy/future projects.md",
     "content/Blog copy/current projects.md",
-    "content/Blog copy/_index.md",
-    "content/homelab/current projects copy.md",
-    "content/Resume.md",
-    "content/Blog copy/test01.md"
+    "content/Blog copy/_index.md"
   ]
 }

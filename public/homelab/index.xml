@@ -9,13 +9,6 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://nbkelley.com/homelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>current projects</title>
-      <link>http://nbkelley.com/homelab/current-projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://nbkelley.com/homelab/current-projects/</guid>
-      <description>&lt;h2 id=&#34;my-current-projects-are&#34;&gt;My current projects are:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Digitizing all my physical documents&lt;/strong&gt; - Scanning/OCR, file organization, 2x backup, security of physical copies.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cataloging my physical book collection&lt;/strong&gt; - Library database for search/filtering/checkout/metadata, laser scanner!!!, re-organization of books, some digitization&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scheduled offsite and onsite backups&lt;/strong&gt; - 2 network synced offsite backups for documents and photos (not media-server) using 8TB Seagate external hard drives connected to a Pi4 that sync over network. Most files will be preloaded, but changes will occur over network. Additionally a monthly backup for the full NAS using 28tb seagate&lt;/li&gt;&#xA;&lt;li&gt;Server dashboards&#xA;&lt;br&gt; &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>recent projects</title>
       <link>http://nbkelley.com/homelab/recent-projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -28,6 +21,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://nbkelley.com/homelab/future-projects/</guid>
       <description>&lt;h2 id=&#34;future-projects&#34;&gt;future Projects&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Calibre-Web and auto synced Kindle&amp;rsquo;s for the fam&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>current projects</title>
+      <link>http://nbkelley.com/homelab/current-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://nbkelley.com/homelab/current-projects/</guid>
+      <description>&lt;h2 id=&#34;my-current-projects-are&#34;&gt;My current projects are:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Digitizing all my physical documents&lt;/strong&gt; - Scanning/OCR, file organization, 2x backup, security of physical copies.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cataloging my physical book collection&lt;/strong&gt; - Library database for search/filtering/checkout/metadata, laser scanner!!!, re-organization of books, some digitization&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scheduled offsite and onsite backups&lt;/strong&gt; - 2 network synced offsite backups for documents and photos (not media-server) using 8TB Seagate external hard drives connected to a Pi4 that sync over network. Most files will be preloaded, but changes will occur over network. Additionally a monthly backup for the full NAS using 28tb seagate&lt;/li&gt;&#xA;&lt;li&gt;Server dashboards&#xA;&lt;br&gt; &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

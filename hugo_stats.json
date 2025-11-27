@@ -1,7 +1,58 @@
 {
   "htmlElements": {
-    "tags": null,
-    "classes": null,
-    "ids": null
+    "tags": [
+      "a",
+      "blockquote",
+      "body",
+      "br",
+      "del",
+      "div",
+      "em",
+      "footer",
+      "h1",
+      "h2",
+      "h3",
+      "head",
+      "header",
+      "hr",
+      "html",
+      "li",
+      "link",
+      "main",
+      "meta",
+      "nav",
+      "ol",
+      "p",
+      "script",
+      "span",
+      "strong",
+      "time",
+      "title",
+      "ul"
+    ],
+    "classes": [
+      "back-link",
+      "back-nav",
+      "comments",
+      "current",
+      "path-nav",
+      "terminal-nav",
+      "time",
+      "time-list",
+      "toc",
+      "toc-content"
+    ],
+    "ids": [
+      "2025-11-26",
+      "TableOfContents",
+      "future-projects",
+      "my-current-projects-are",
+      "nate-kelley",
+      "pathfinder-international",
+      "prince-lobel-tye-llp",
+      "recent-projects",
+      "simon-kucher--partners",
+      "work-experience"
+    ]
   }
 }

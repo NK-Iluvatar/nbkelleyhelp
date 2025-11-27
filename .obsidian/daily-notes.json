@@ -1,5 +1,6 @@
 {
-  "template": "archetypes/default",
+  "template": "archetypes/default 1",
   "folder": "/content/journal",
-  "autorun": true
+  "autorun": true,
+  "format": "YYYY-MM-DD"
 }

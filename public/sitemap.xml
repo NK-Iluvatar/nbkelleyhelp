@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://nbkelley.com/journal/</loc>
+  </url><url>
     <loc>http://nbkelley.com/</loc>
   </url><url>
-    <loc>http://nbkelley.com/resume/</loc>
+    <loc>http://nbkelley.com/journal/2025-11-26/</loc>
   </url><url>
-    <loc>http://nbkelley.com/homelab/current-projects/</loc>
+    <loc>http://nbkelley.com/resume/</loc>
   </url><url>
     <loc>http://nbkelley.com/homelab/</loc>
   </url><url>
     <loc>http://nbkelley.com/homelab/recent-projects/</loc>
   </url><url>
+    <loc>http://nbkelley.com/homelab/future-projects/</loc>
+  </url><url>
     <loc>http://nbkelley.com/blog/</loc>
+  </url><url>
+    <loc>http://nbkelley.com/homelab/current-projects/</loc>
   </url><url>
     <loc>http://nbkelley.com/documentation/</loc>
   </url><url>
@@ -21,10 +27,6 @@
     <loc>http://nbkelley.com/documentation/first-post/</loc>
   </url><url>
     <loc>http://nbkelley.com/journal/first-post/</loc>
-  </url><url>
-    <loc>http://nbkelley.com/homelab/future-projects/</loc>
-  </url><url>
-    <loc>http://nbkelley.com/journal/</loc>
   </url><url>
     <loc>http://nbkelley.com/categories/</loc>
   </url><url>

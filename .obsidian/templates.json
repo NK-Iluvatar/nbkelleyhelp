@@ -1,4 +1,5 @@
 {
-  "dateFormat": "",
-  "timeFormat": ""
+  "dateFormat": "YYYY-MM-DD",
+  "timeFormat": "",
+  "folder": "archetypes"
 }
