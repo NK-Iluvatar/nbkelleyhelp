@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/journal/2025-11-30.md",
+                "file": "content/hmm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-30"
+              "title": "hmm"
             }
           }
         ],
@@ -200,15 +200,17 @@
   },
   "active": "a7906916542c3eb9",
   "lastOpenFiles": [
+    "content/resume.md",
+    "content/hmm.md",
+    "content/_index.md",
+    "content/journal/2025-11-30.md",
     "content/journal/2025-11-26.md",
     "content/journal/2025-11-27.md",
     "content/journal/2025-11-28.md",
     "content/journal/2025-11-29.md",
-    "content/journal/2025-11-30.md",
     "content/journal/first post.md",
     "archetypes/default 1.md",
     "content/homelab/future projects.md",
-    "content/resume.md",
     "content/documentation/first post.md",
     "Untitled 1.md",
     "content/journal/_index.md",
@@ -231,13 +233,11 @@
     "public/journal/index.xml",
     "Untitled.md",
     "content/documentation/_index.md",
-    "content/_index.md",
     "content/Blog/first post.md",
     "content/Blog/_index.md",
     "static/favicon_io/favicon.png",
     "public/favicon_io/favicon.png",
     "themes/shibui/static/favicon_io/favicon.png",
-    "content/homelab/_index.md",
-    "content/Blog copy/recent projects.md"
+    "content/homelab/_index.md"
   ]
 }
