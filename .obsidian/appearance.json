@@ -1,1 +1,8 @@
-{}
+{
+  "theme": "system",
+  "cssTheme": "Tokyo Night",
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Arial",
+  "monospaceFontFamily": "Adwaita Mono",
+  "baseFontSize": 13
+}
