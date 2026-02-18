@@ -4,7 +4,7 @@ draft = false
 title = 'MBTA Dashboard'
 +++
 
-## Link: http://mbtadashboard.nbkelley.com
+## Link: http://mbtadash.nbkelley.com
 
 ##MBTA and BlueBikes API
 
