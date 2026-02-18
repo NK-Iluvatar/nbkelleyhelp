@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archetypes/default 1.md",
+                "file": "content/homelab/Transit Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "default 1"
+              "title": "Transit Dashboard"
             }
           }
         ]
@@ -185,13 +185,17 @@
   },
   "active": "f2ebe3e164752521",
   "lastOpenFiles": [
+    "content/homelab/_index.md",
+    "content/homelab/Transit Dashboard.md",
+    "content/homelab/recent projects.md",
+    "content/homelab/current projects.md",
+    "content/journal/2026-02-18.md",
     "archetypes/default.md",
     "content/tester.md",
     "content/resume.md",
     "content/hmm.md",
     "content/_index.md",
     "content/Blog/_index.md",
-    "content/journal/2026-02-18.md",
     "content/journal/2026-01-17.md",
     "content/journal/2025-12-14.md",
     "content/journal/2025-12-12.md",
@@ -207,10 +211,6 @@
     "content/journal/2025-11-26.md",
     "content/journal/2025-11-28.md",
     "content/journal/2025-11-29.md",
-    "content/journal/2025-12-02.md",
-    "content/journal/2025-12-01.md",
-    "content/journal/2025-12-03.md",
-    "content/journal/2025-11-30.md",
     "public/journal/2025-11-27/index.html",
     "public/journal/2025-11-27",
     "public/journal/2025-11-26/index.html",
